@@ -39,4 +39,4 @@ jobs:
         pytest
     - name: Test with mypy
       run: |
-        mypy --follow-imports silent *.py
+        mypy --follow-imports skip *.py
