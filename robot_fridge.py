@@ -1,4 +1,4 @@
-from adafruit_motorkit import MotorKit
+from adafruit_motorkit import MotorKit  # type: ignore
 
 
 def move_forward(kit: MotorKit, throttle: float = 1):
