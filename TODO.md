@@ -23,18 +23,28 @@
 
 ## Coden
 - [ ] Robot arm
+    - [x] Simulator: https://www.geogebra.org/m/E9g4q7F5
     - [ ] Bier pakken
     - [ ] Stroom aansluiten (waterkoker)
 - [ ] Wielen
-    - [ ] Vooruit/achteruit
-    - [ ] Draaien
+    - [x] Vooruit/achteruit
+    - [x] Draaien
     - [ ] Bochten
     - [ ] Hat aansturen
 - [ ] Besturing Controller
 - [ ]
 
 ## Knutselen
-- [ ] Koelkast meten
+- [x] Koelkast meten
+    - Buiten-Diepte: 36 cm
+    - Buiten-Breedte: 43 cm
+    - Buiten-Hoogte: 51.5 cm
+    - Binnen-Diepte: 23 cm
+    - Binnen-Breedte: 35 cm
+    - Binnen-Hoogte: 42 cm
+- [x] Bierblikje meten (33cl):
+    - Hoogte: 11.5 cm
+    - Diameter: 6.5 cm
 - [ ] Plankje zagen
 - [ ] Wielen monteren
 - [ ] Electronica monteren
