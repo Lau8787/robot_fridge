@@ -23,6 +23,7 @@
 
 ## Coden
 - [ ] Robot arm
+    - [x] Simulator: https://www.geogebra.org/m/E9g4q7F5
     - [ ] Bier pakken
     - [ ] Stroom aansluiten (waterkoker)
 - [ ] Wielen
