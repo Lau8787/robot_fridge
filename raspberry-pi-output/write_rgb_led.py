@@ -59,8 +59,10 @@ def main() -> None:
     )
 
     time.sleep(5)
-    GPIO.cleanup()  # cleanup all GPIO
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    finally:
+        GPIO.cleanup()  # cleanup all GPIO
