@@ -2,6 +2,15 @@
 
 ## Install
 
+- Set-up ssh:
+
+      cat << EOF >> "${HOME}/.ssh/config"
+      
+      Host pi
+            User pi
+            HostName 192.168.2.200
+      EOF
+
 - Install dependencies:
 
       sudo apt-get install -y python3-pip
