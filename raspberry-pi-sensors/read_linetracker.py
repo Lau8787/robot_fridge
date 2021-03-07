@@ -19,7 +19,6 @@ try:
             print(f"Line tracker active: {line_tracker_action}")
         else:
             print(f"Line tracker not active: {line_tracker_action}")
-        # print(line_tracker_action, end="")
         time.sleep(0.075)
 
 except KeyboardInterrupt:  # If CTRL+C is pressed, exit cleanly:
