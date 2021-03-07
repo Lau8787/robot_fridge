@@ -13,7 +13,8 @@ i2c = busio.I2C(board.SCL, board.SDA)
 ads = ADS.ADS1015(i2c)
 
 # Create single-ended input on channel 0
-chan = AnalogIn(ads, ADS.P0)
+x_axis = AnalogIn(ads, ADS.P1)
+y_axis = AnalogIn(ads, ADS.P0)
 
 # Create differential input between channel 0 and 1
 # chan = AnalogIn(ads, ADS.P0, ADS.P1)
@@ -21,5 +22,9 @@ chan = AnalogIn(ads, ADS.P0)
 print("{:>5}\t{:>5}".format("raw", "v"))
 
 while True:
-    print("{:>5}\t{:>5.3f}".format(chan.value, chan.voltage))
-    time.sleep(0.5)
+    # print("{:>5}\t{:>5.3f}".format(x_axis.value, x_axis.voltage))
+    # print("{:>5}\t{:>5.3f}".format(y_axis.value, y_axis.voltage))
+
+    print(f"X-axis: {x_axis.value}; Y-axis: {y_axis.value}")
+
+    time.sleep(0.005)
