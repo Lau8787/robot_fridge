@@ -50,3 +50,8 @@ def main() -> None:
         print(my_joystick.value)
 
         time.sleep(0.005)
+
+
+if __name__ == "__main__":
+    main()
+
