@@ -7,6 +7,7 @@
       sudo apt-get install -y python3-pip
       sudo apt-get install -y python3-venv
       sudo apt-get install -y i2c-tools
+      sudo apt-get install build-essential python3-dev git
 
 - Activate the virtual env:
 
