@@ -19,7 +19,12 @@ pytest:
 
 .PHONY: mypy
 mypy:
-	$(VENV) mypy $(PY_FILES)
+	$(VENV) mypy --follow-imports silent $(PY_FILES)
+
+.PHONY: flake8
+flake8:
+	# stop the build if there are Python syntax errors or undefined names
+	$(VENV) flake8 . --count --show-source --statistics
 
 .PHONY: black
 black:

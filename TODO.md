@@ -26,6 +26,8 @@
     - [ ] 
 - [ ] Camera
 - [ ] SDkaartje
+- [ ] Zekeringen (+ houder?)
+- [ ] RPI Case?
 - [ ] Controller
     - https://www.aliexpress.com/item/1005001408060833.html
     - https://www.aliexpress.com/item/1005002011023101.htm
