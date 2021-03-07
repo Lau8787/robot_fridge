@@ -17,11 +17,28 @@
 - [ ] Draadjes / kabels
 - [ ] Schroefjes, boutjes, boortjes
 - [ ] Robotarm
+- [ ] Extra sensoren
+    - [ ] Accelerometer
+    - [ ] Afstandsmeter om botsen te meten
+    - [ ] Linetracker om niet in afgrond te rijden
+    - [ ] 
+    - [ ] 
+    - [ ] 
 - [ ] Camera
 - [ ] SDkaartje
 - [ ] Controller
+    - https://www.aliexpress.com/item/1005001408060833.html
+    - https://www.aliexpress.com/item/1005002011023101.htm
 
 ## Coden
+- [ ] Raspberry Pi installeren
+    - [ ] SSH server
+    - [ ] WiFi shit
+    - [ ] Python
+    - [ ] SystemD
+    - [ ] Fixed IP / Domain Name
+    - [ ] 
+    - [ ] 
 - [ ] Robot arm
     - [x] Simulator: https://www.geogebra.org/m/E9g4q7F5
     - [ ] Bier pakken
@@ -31,6 +48,18 @@
     - [x] Draaien
     - [ ] Bochten
     - [ ] Hat aansturen
+- [ ] AI Stuff
+    - [ ] Weten waar wij zijn
+    - [ ] Terug naar base rijden
+    - [ ] Niet botsen
+    - [ ] Niet afgrond in rijden
+    - [ ] Positie bijhouden
+    - [ ] Trap oplopen
+    - [ ] Face regocnization
+    - [ ] Bieraanpakdetectie
+- [ ] Monitoring
+    - [ ] Batterij
+    - [ ] Bier-in-koelkastmeting
 - [ ] Besturing Controller
 - [ ]
 
