@@ -3,11 +3,6 @@
 import time
 import typing as t
 
-import adafruit_ads1x15.ads1015 as ADS
-import board
-import busio
-from adafruit_ads1x15.analog_in import AnalogIn
-
 from read_adc import p0 as y_axis
 from read_adc import p1 as x_axis
 
@@ -54,4 +49,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
