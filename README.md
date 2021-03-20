@@ -5,7 +5,7 @@
 - Set-up ssh:
 
       cat << EOF >> "${HOME}/.ssh/config"
-      
+
       Host pi
             User pi
             HostName 192.168.2.200
@@ -13,10 +13,15 @@
 
 - Install dependencies:
 
+      sudo apt-get update
       sudo apt-get install -y python3-pip
       sudo apt-get install -y python3-venv
       sudo apt-get install -y i2c-tools
       sudo apt-get install build-essential python3-dev git
+
+- Create the virtual env:
+
+    python3 -m venv .venv
 
 - Activate the virtual env:
 
@@ -24,7 +29,7 @@
 
 - Install python packages:
 
-      pip install -r requirements.py
+      pip install -r requirements.txt
 
 
 - Set raspi-config settings
