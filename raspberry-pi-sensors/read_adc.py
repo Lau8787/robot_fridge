@@ -32,12 +32,16 @@ def main() -> None:
         # print("{:>5}\t{:>5.3f}".format(x_axis.value, x_axis.voltage))
         # print("{:>5}\t{:>5.3f}".format(y_axis.value, y_axis.voltage))
 
-        print('; '.join([
-            f'P0: {p0.value}',
-            f'P1: {p1.value}',
-            f'P2: {p2.value}',
-            f'P3: {p3.value}',
-        ]))
+        print(
+            "; ".join(
+                [
+                    f"P0: {p0.value}",
+                    f"P1: {p1.value}",
+                    f"P2: {p2.value}",
+                    f"P3: {p3.value}",
+                ]
+            )
+        )
 
         time.sleep(0.005)
 
