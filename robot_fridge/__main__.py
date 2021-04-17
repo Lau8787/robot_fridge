@@ -31,8 +31,8 @@ def main(win):
                     win.addstr(action)
                     getattr(bot, action)()
             except Exception:
-                # No input   
-                pass 
+                # No input
+                pass
     finally:
         bot.halt()
 
