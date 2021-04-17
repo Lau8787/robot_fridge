@@ -21,7 +21,7 @@
 
 - Create the virtual env:
 
-    python3 -m venv .venv
+      python3 -m venv .venv
 
 - Activate the virtual env:
 

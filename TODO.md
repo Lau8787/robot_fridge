@@ -13,9 +13,15 @@
 - [x] batterij https://eu.nkon.nl/rechargeable/li-ion/18650-size/nitecore-18650-nl1835r-usb-3500mah-4a.html
 - [x] Raspberry Pi motorhat https://www.kiwi-electronics.nl/adafruit-dc-stepper-motor-hat-voor-raspberry-pi?lang=en
 - [ ] Oplader
+    - [ ] 3x batterij
+    - [ ] 
+- [ ] Battery case
+    - [ ] 2 cases voor 1 batterij 26650
+    - [ ] 1 case voor 1 batterij 18650
 - [ ] Platform
 - [ ] Draadjes / kabels
-- [ ] Schroefjes, boutjes, boortjes
+    - [ ] Dupont 10 kleuren, extra rood en zwart
+- [x] Schroefjes, boutjes, boortjes
 - [ ] Robotarm
 - [ ] Extra sensoren
     - [ ] Accelerometer
@@ -27,10 +33,16 @@
 - [ ] Camera
 - [ ] SDkaartje
 - [ ] Zekeringen (+ houder?)
-- [ ] RPI Case?
+- [ ] RPI Case!
 - [ ] Controller
     - https://www.aliexpress.com/item/1005001408060833.html
     - https://www.aliexpress.com/item/1005002011023101.htm
+- [ ] Klitteband
+- [ ] Connectors
+    - [ ] 4x stroom connector male + female voor motoren
+    - [ ] 1x 8-way connector
+- [ ] Grotere wielen
+- [ ] Micro usb kabel naar 2 stroomdraadjes
 
 ## Coden
 - [ ] Raspberry Pi installeren
@@ -49,7 +61,7 @@
     - [x] Vooruit/achteruit
     - [x] Draaien
     - [ ] Bochten
-    - [ ] Hat aansturen
+    - [x] Hat aansturen
 - [ ] AI Stuff
     - [ ] Weten waar wij zijn
     - [ ] Terug naar base rijden
