@@ -10,11 +10,11 @@ class RobotFridge:
     _rear_right: DCMotor
 
     @classmethod
-    def from_kit(cls, kit: MotorKit) -> 'RobotFridge':
-        return cls(kit.motor1, kit.motor2, kit.motor3, kit.motor4) 
+    def from_kit(cls, kit: MotorKit) -> "RobotFridge":
+        return cls(kit.motor1, kit.motor2, kit.motor3, kit.motor4)
 
     def __init__(
-        self, 
+        self,
         front_left: DCMotor,
         front_right: DCMotor,
         rear_left: DCMotor,
