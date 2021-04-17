@@ -29,7 +29,7 @@ def main(win):
                 if action is not None:
                     win.addstr(action)
                     getattr(bot, action)()
-            except Exception as e:
+            except Exception:
                 # No input   
                 pass 
     finally:
