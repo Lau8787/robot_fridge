@@ -3,46 +3,51 @@
 2021-03-06
 
 ## kooplijstje
-- [x] Wielen https://www.aliexpress.com/item/4000269874516.html
-- [x] Motoren https://www.aliexpress.com/item/1005002030007662.html
-- [x] step up voltage converter 
-	- https://www.aliexpress.com/item/1005001266721719.html
-	- https://www.aliexpress.com/item/4000509503297.html
-- [x] step down voltage converter https://www.aliexpress.com/item/1005001792154861.html
-- [x] batterijhouder https://www.aliexpress.com/item/32901150833.html
-- [x] batterij https://eu.nkon.nl/rechargeable/li-ion/18650-size/nitecore-18650-nl1835r-usb-3500mah-4a.html
-- [x] Raspberry Pi motorhat https://www.kiwi-electronics.nl/adafruit-dc-stepper-motor-hat-voor-raspberry-pi?lang=en
-- [ ] Oplader
-    - [ ] 3x batterij
-    - [ ] 
-- [ ] Battery case
-    - [ ] 2 cases voor 1 batterij 26650
-    - [ ] 1 case voor 1 batterij 18650
-- [ ] Platform
-- [ ] Draadjes / kabels
-    - [ ] Dupont 10 kleuren, extra rood en zwart
-- [x] Schroefjes, boutjes, boortjes
-- [ ] Robotarm
-- [ ] Extra sensoren
-    - [ ] Accelerometer
-    - [ ] Afstandsmeter om botsen te meten
-    - [ ] Linetracker om niet in afgrond te rijden
-    - [ ] 
-    - [ ] 
-    - [ ] 
-- [ ] Camera
-- [ ] SDkaartje
-- [ ] Zekeringen (+ houder?)
-- [ ] RPI Case!
-- [ ] Controller
-    - https://www.aliexpress.com/item/1005001408060833.html
-    - https://www.aliexpress.com/item/1005002011023101.htm
-- [ ] Klitteband
-- [ ] Connectors
-    - [ ] 4x stroom connector male + female voor motoren
-    - [ ] 1x 8-way connector
-- [ ] Grotere wielen
-- [ ] Micro usb kabel naar 2 stroomdraadjes
+
+* Nog niet besteld
+    - Oplader
+        - ???
+    - Platform
+    - Robotarm
+    - Extra sensoren
+        - Accelerometer
+        - Afstandsmeter om botsen te meten
+        - Linetracker om niet in afgrond te rijden
+        - 
+    - Camera
+    - SDkaartje
+    - Zekeringen (+ houder?)
+
+* Besteld
+    - Oplader
+        - 3x batterij
+    - RPI Case!
+    - Connectors
+        - 4x stroom connector male + female voor motoren
+        - 1x 8-way connector
+    - Micro usb kabel naar 2 stroomdraadjes
+    - Klitteband
+    - Battery case
+        - 2 cases voor 1 batterij 26650
+        - 1 case voor 1 batterij 18650
+    - Controller
+        - https://www.aliexpress.com/item/1005001408060833.html
+        - https://www.aliexpress.com/item/1005002011023101.htm
+    - Draadjes / kabels
+        - Dupont 10 kleuren, extra rood en zwart
+    - Grotere wielen
+
+* Ontvangen
+    - Wielen https://www.aliexpress.com/item/4000269874516.html
+    - Motoren https://www.aliexpress.com/item/1005002030007662.html
+    - step up voltage converter 
+    	- https://www.aliexpress.com/item/1005001266721719.html
+    	- https://www.aliexpress.com/item/4000509503297.html
+    - step down voltage converter https://www.aliexpress.com/item/1005001792154861.html
+    - batterijhouder https://www.aliexpress.com/item/32901150833.html
+    - batterij https://eu.nkon.nl/rechargeable/li-ion/18650-size/nitecore-18650-nl1835r-usb-3500mah-4a.html
+    - Raspberry Pi motorhat https://www.kiwi-electronics.nl/adafruit-dc-stepper-motor-hat-voor-raspberry-pi?lang=en
+    - Schroefjes, boutjes, boortjes
 
 ## Coden
 - [ ] Raspberry Pi installeren
